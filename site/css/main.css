@@ -98,6 +98,40 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+
+   #container {
+     background-color: red;
+     width: 1280px;
+     margin:0 auto;
+   }
+
+   #header {
+     background-color: blue;
+     width: 998px;
+     height: 117px;
+     height: auto;
+   }
+
+   #header-top {
+     background-color: yellow;
+     height: 58px;
+     width: 998px;
+     margin:0 auto;
+   }
+
+   #header-bottom {
+     background-color: orange;
+     height: 58px;
+     width: 998px;
+     margin:0 auto;
+   }
+
+   #startfoto {
+     background-color: pink;
+     width: 1280px;
+     height: 551px;
+     margin:0 auto;
+   }
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -262,4 +296,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
